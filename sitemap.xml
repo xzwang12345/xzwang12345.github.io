@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xzwang12345.github.io/categories/</loc>
-  </url><url>
     <loc>https://xzwang12345.github.io/</loc>
+    <lastmod>2023-02-26T12:07:29+08:00</lastmod>
+  </url><url>
+    <loc>https://xzwang12345.github.io/post/</loc>
+    <lastmod>2023-02-26T12:07:29+08:00</lastmod>
+  </url><url>
+    <loc>https://xzwang12345.github.io/post/test1/</loc>
+    <lastmod>2023-02-26T12:07:29+08:00</lastmod>
+  </url><url>
+    <loc>https://xzwang12345.github.io/categories/</loc>
   </url><url>
     <loc>https://xzwang12345.github.io/tags/</loc>
   </url>
